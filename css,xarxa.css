@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+}
+/*********************Iniciar sesion********************/
+#section1{
+    background-image: url(istockphoto-179027409-612x612.webp);
+    background-size: cover;
+    height: 566px;
+    padding-top: 250px;
+    background-position: 50% 50%;
+}
+.titulo-form{
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 25px;
+}
+.formulario{
+    padding: 35px;
+    background-color: #fff;
+    border-radius: 25px;
+    color: black;
+    width: 250px;
+    margin-left: 800px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    height: 280px;
+    
+}
+form div{
+    margin-bottom: 10px;
+}
+.input-form10{
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+    height: 25px;
+    background-color: rgb(205, 230, 252);
+}
+.bluebotton{
+    color:white;
+    background-color: rgb(41, 205, 255);
+    border-radius: 5px;
+    width: 255px;
+    border: none;
+    height: 30px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.texto1{
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    background-color: rgb(41, 205, 255);
+    height: 100px;
+    border-top: 3px solid #000;
+}
+.texto-footer{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    
+}
+.texto-footer p{
+    margin-top: 35px;
+    font-size: 1.2rem;
+}
+.texto-footer p a{
+    color:#000;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.texto-footer p a:hover{
+    color: blue;
+}
+/*************************Registre************************************/
+
+#section2{
+    background-image: url(istockphoto-179027409-612x612.jpg);
+    background-size: cover;
+    height: 766px;
+    background-position: 50% 50%;
+    padding-top: 50px;
+}
+.formulario20{
+    padding: 35px;
+    background-color: #fff;
+    border-radius: 25px;
+    color: black;
+    width: 250px;
+    margin-left: 800px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    height: 580px;
+    
+}
+.titulo-form20{
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 25px;
+}
+.input-form20{
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+    height: 25px;
+    background-color: rgb(205, 230, 252);
+}
+.bluebotton20{
+    color:white;
+    background-color: rgb(41, 205, 255);
+    border-radius: 5px;
+    width: 255px;
+    border: none;
+    height: 30px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+::-webkit-file-upload-button {
+    font: 'Arial', sans-serif;
+    background: rgb(41, 205, 255) ;
+    color: rgb(255, 255, 255);
+    border-color: rgb(41, 205, 255)  ;
+    padding: 7px 10px;
+    font-weight: bold;
+    font-size: 0.7rem;
+    border-radius: 5px;
+}
+
+/**************************registre********************************/
+
+#section3{
+    background-image: url(istockphoto-179027409-612x612.jpg);
+    background-size: cover;
+    height: 766px;
+    background-position: 50% 50%;
+    padding-top: 50px;
+}
+.formulario30{
+    padding: 35px;
+    background-color: #fff;
+    border-radius: 25px;
+    color: black;
+    width: 250px;
+    margin-left: 800px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    height: 580px;
+    
+}
+.titulo-form30{
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 25px;
+}
+.input-form30{
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+    height: 25px;
+    background-color: rgb(205, 230, 252);
+}
+
+
+/****************************Inicio**********************************/
+
+#section4{
+    background-image: url(istockphoto-179027409-612x612.webp);
+    background-size: cover;
+    height: 816px;
+    background-position: 50% 50%;
+}
+.menu-superior{
+    color: #000;
+    background-color: rgb(41, 205, 255);
+    border-bottom: solid 3px #000;
+    display: flex;
+    padding-bottom: 25px;
+
+}
+.titulo-menu{
+    margin-top: 45px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.texto-menu {
+    margin-top: 45px;
+    margin-left: 480px;
+    list-style: none;
+    text-decoration: underline;
+}
+.texto-menu a{
+    color: #000;
+}
+.perfil{
+    width: 35px;
+    border-radius: 25px;
+}
+.menu-lateral{
+    margin-top: 45px;
+    background-color: #fff;
+    width: 100px;
+    margin-left: 25px;
+    border-radius: 10px;
+    padding: 25px;
+    position: fixed;
+    list-style: none;  
+}  
+
